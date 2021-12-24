@@ -31,9 +31,7 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://slimbloodworth.github.io/article-preview-card/)
 
 ## My process
 I started with the outside in and top to bottom for this layout which made it easier to adjust the responsiveness as I went. I also wanted to play more with SCSS.
